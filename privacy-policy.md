@@ -5,12 +5,12 @@
 
 ## Collection of Routine Information
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+This [["website" or "app"]] track basic information about their. This information includes, but is not limited to, IP addresses, [[app]] details, timestamps and referring pages. None of this information can personally identify specific  to this [[app]]. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Where necessary, this [[app]] uses cookies to store information about a visitor’s preferences and history in order to better serve the  and/or present the  with customized content.
 
 
 ## Advertisement and Other Third Parties
