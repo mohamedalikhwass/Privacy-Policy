@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[[I, or ذكرك حصنك]] takes your privacy seriously. To better protect your privacy [[I Mohamed Khwass]] provide this privacy policy notice explaining the way your personal information is collected and used.
+[[I, ذكرك حصنك]] takes your privacy seriously. To better protect your privacy [[I Mohamed Khwass]] provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
